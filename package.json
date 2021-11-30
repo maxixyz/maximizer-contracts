@@ -1,0 +1,10 @@
+{
+  "name": "maximizer-contracts",
+  "version": "1.0.0",
+  "devDependencies": {
+    "hardhat": "^2.7.0"
+  },
+  "scripts": {
+    "compile": "npx hardhat compile"
+  }
+}
